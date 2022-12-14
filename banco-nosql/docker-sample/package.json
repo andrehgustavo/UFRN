@@ -10,6 +10,6 @@
   "author": "André Gustavo Barros <andreh_gustavo@ufrn.edu.br>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
